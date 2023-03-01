@@ -21,7 +21,6 @@ class CfgPatches
 		magazines[]={};
 	};
 };
-//Comment
 class CfgVehicles
 {
 	class Helicopter_Base_H{};
