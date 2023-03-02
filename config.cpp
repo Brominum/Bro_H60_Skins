@@ -52,13 +52,29 @@ class CfgVehicles
 					"",
 					"Bro_H60_Skins\Tan\Hull_Main_co.paa",
 					"Bro_H60_Skins\Tan\Misc_co.paa",
-					"Bro_H60_Skins\Tan\Hull_Tail_co.paa",
+					"Bro_H60_Skins\Tan\Hull_Tail_co.paa"
+				};
+				materials[]=
+				{
 					"",
 					"",
 					"",
 					"",
 					"",
-					""
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"z\vtx\addons\UH60\data\exterior\hull main.rvmat",
+					"z\vtx\addons\UH60\data\exterior\misc.rvmat",
+					"z\vtx\addons\UH60\data\exterior\hull tail.rvmat"
 				};
 				factions[] = {};
 			};
@@ -85,13 +101,29 @@ class CfgVehicles
 					"",
 					"Bro_H60_Skins\Camo1\Hull_Main_co.paa",
 					"Bro_H60_Skins\Camo1\Misc_co.paa",
-					"Bro_H60_Skins\Camo1\Hull_Tail_co.paa",
+					"Bro_H60_Skins\Camo1\Hull_Tail_co.paa"
+				};
+				materials[]=
+				{
 					"",
 					"",
 					"",
 					"",
 					"",
-					""
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"z\vtx\addons\UH60\data\exterior\hull main.rvmat",
+					"z\vtx\addons\UH60\data\exterior\misc.rvmat",
+					"z\vtx\addons\UH60\data\exterior\hull tail.rvmat"
 				};
 				factions[] = {};
 			};
@@ -118,13 +150,29 @@ class CfgVehicles
 					"",
 					"Bro_H60_Skins\Camo2\Hull_Main_co.paa",
 					"Bro_H60_Skins\Camo2\Misc_co.paa",
-					"Bro_H60_Skins\Camo2\Hull_Tail_co.paa",
+					"Bro_H60_Skins\Camo2\Hull_Tail_co.paa"
+				};
+				materials[]=
+				{
 					"",
 					"",
 					"",
 					"",
 					"",
-					""
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"z\vtx\addons\UH60\data\exterior\hull main.rvmat",
+					"z\vtx\addons\UH60\data\exterior\misc.rvmat",
+					"z\vtx\addons\UH60\data\exterior\hull tail.rvmat"
 				};
 				factions[] = {};
 			};
@@ -151,13 +199,29 @@ class CfgVehicles
 					"",
 					"Bro_H60_Skins\MC\Hull_Main_co.paa",
 					"Bro_H60_Skins\MC\Misc_co.paa",
-					"Bro_H60_Skins\MC\Hull_Tail_co.paa",
+					"Bro_H60_Skins\MC\Hull_Tail_co.paa"
+				};
+				materials[]=
+				{
 					"",
 					"",
 					"",
 					"",
 					"",
-					""
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"z\vtx\addons\UH60\data\exterior\hull main.rvmat",
+					"z\vtx\addons\UH60\data\exterior\misc.rvmat",
+					"z\vtx\addons\UH60\data\exterior\hull tail.rvmat"
 				};
 				factions[] = {};
 			};
@@ -184,13 +248,29 @@ class CfgVehicles
 					"",
 					"Bro_H60_Skins\RedYellow\Hull_Main_co.paa",
 					"Bro_H60_Skins\RedYellow\Misc_co.paa",
-					"Bro_H60_Skins\RedYellow\Hull_Tail_co.paa",
+					"Bro_H60_Skins\RedYellow\Hull_Tail_co.paa"
+				};
+				materials[]=
+				{
 					"",
 					"",
 					"",
 					"",
 					"",
-					""
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"z\vtx\addons\UH60\data\exterior\hull main.rvmat",
+					"z\vtx\addons\UH60\data\exterior\misc.rvmat",
+					"z\vtx\addons\UH60\data\exterior\hull tail.rvmat"
 				};
 				factions[] = {};
 			};	
@@ -217,13 +297,29 @@ class CfgVehicles
 					"",
 					"Bro_H60_Skins\BlueWhite\Hull_Main_co.paa",
 					"Bro_H60_Skins\BlueWhite\Misc_co.paa",
-					"Bro_H60_Skins\BlueWhite\Hull_Tail_co.paa",
+					"Bro_H60_Skins\BlueWhite\Hull_Tail_co.paa"
+				};
+				materials[]=
+				{
 					"",
 					"",
 					"",
 					"",
 					"",
-					""
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"z\vtx\addons\UH60\data\exterior\hull main.rvmat",
+					"z\vtx\addons\UH60\data\exterior\misc.rvmat",
+					"z\vtx\addons\UH60\data\exterior\hull tail.rvmat"
 				};
 				factions[] = {};
 			};
@@ -250,13 +346,29 @@ class CfgVehicles
 					"",
 					"Bro_H60_Skins\Digi1\Hull_Main_co.paa",
 					"Bro_H60_Skins\Digi1\Misc_co.paa",
-					"Bro_H60_Skins\Digi1\Hull_Tail_co.paa",
+					"Bro_H60_Skins\Digi1\Hull_Tail_co.paa"
+				};
+				materials[]=
+				{
 					"",
 					"",
 					"",
 					"",
 					"",
-					""
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"z\vtx\addons\UH60\data\exterior\hull main.rvmat",
+					"z\vtx\addons\UH60\data\exterior\misc.rvmat",
+					"z\vtx\addons\UH60\data\exterior\hull tail.rvmat"
 				};
 				factions[] = {};
 			};
@@ -283,13 +395,29 @@ class CfgVehicles
 					"",
 					"Bro_H60_Skins\Digi2\Hull_Main_co.paa",
 					"Bro_H60_Skins\Digi2\Misc_co.paa",
-					"Bro_H60_Skins\Digi2\Hull_Tail_co.paa",
+					"Bro_H60_Skins\Digi2\Hull_Tail_co.paa"
+				};
+				materials[]=
+				{
 					"",
 					"",
 					"",
 					"",
 					"",
-					""
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"z\vtx\addons\UH60\data\exterior\hull main.rvmat",
+					"z\vtx\addons\UH60\data\exterior\misc.rvmat",
+					"z\vtx\addons\UH60\data\exterior\hull tail.rvmat"
 				};
 				factions[] = {};
 			};
@@ -316,13 +444,29 @@ class CfgVehicles
 					"",
 					"Bro_H60_Skins\LV\Hull_Main_co.paa",
 					"Bro_H60_Skins\LV\Misc_co.paa",
-					"Bro_H60_Skins\LV\Hull_Tail_co.paa",
+					"Bro_H60_Skins\LV\Hull_Tail_co.paa"
+				};
+				materials[]=
+				{
 					"",
 					"",
 					"",
 					"",
 					"",
-					""
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"z\vtx\addons\UH60\data\exterior\hull main.rvmat",
+					"z\vtx\addons\UH60\data\exterior\misc.rvmat",
+					"z\vtx\addons\UH60\data\exterior\hull tail.rvmat"
 				};
 				factions[] = {};
 			};
@@ -349,16 +493,80 @@ class CfgVehicles
 					"",
 					"Bro_H60_Skins\MT\Hull_Main_co.paa",
 					"Bro_H60_Skins\MT\Misc_co.paa",
-					"Bro_H60_Skins\MT\Hull_Tail_co.paa",
+					"Bro_H60_Skins\MT\Hull_Tail_co.paa"
+				};
+				materials[]=
+				{
 					"",
 					"",
 					"",
 					"",
 					"",
-					""
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"z\vtx\addons\UH60\data\exterior\hull main.rvmat",
+					"z\vtx\addons\UH60\data\exterior\misc.rvmat",
+					"z\vtx\addons\UH60\data\exterior\hull tail.rvmat"
 				};
 				factions[] = {};
-			};				
+			};
+			class Bro_Gold
+			{
+				displayName = "[Bro] Gold";
+				author = "Bromine";
+				textures[] = {
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"Bro_H60_Skins\gold\Hull_Main_co.paa",
+					"Bro_H60_Skins\gold\Misc_co.paa",
+					"Bro_H60_Skins\gold\Hull_Tail_co.paa"
+				};
+				materials[] = {
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"Bro_H60_Skins\gold\Hull_Main.rvmat",
+					"Bro_H60_Skins\gold\Misc.rvmat",
+					"Bro_H60_Skins\gold\Hull_Tail.rvmat"
+				};
+				factions[] = {};
+			};
 		};
 	};
 };
