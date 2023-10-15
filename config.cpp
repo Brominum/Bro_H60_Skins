@@ -567,6 +567,104 @@ class CfgVehicles
 				};
 				factions[] = {};
 			};
+			class Bro_NS
+			{
+				displayName = "[Bro] Nightstalker Blue";
+				author = "Bromine";
+				textures[] = {
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"Bro_H60_Skins\NS\Hull_Main_co.paa",
+					"Bro_H60_Skins\NS\Misc_co.paa",
+					"Bro_H60_Skins\NS\Hull_Tail_co.paa"
+				};
+				materials[]=
+				{
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"z\vtx\addons\UH60\data\exterior\hull main.rvmat",
+					"z\vtx\addons\UH60\data\exterior\misc.rvmat",
+					"z\vtx\addons\UH60\data\exterior\hull tail.rvmat"
+				};
+				factions[] = {};
+			};
+			class Bro_Dirty
+			{
+				displayName = "[Bro] Dirty";
+				author = "Bromine";
+				textures[] = {
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"Bro_H60_Skins\Dirty\Hull_Main_co.paa",
+					"Bro_H60_Skins\Dirty\Misc_co.paa",
+					"Bro_H60_Skins\Dirty\Hull_Tail_co.paa"
+				};
+				materials[]=
+				{
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"z\vtx\addons\UH60\data\exterior\hull main.rvmat",
+					"z\vtx\addons\UH60\data\exterior\misc.rvmat",
+					"z\vtx\addons\UH60\data\exterior\hull tail.rvmat"
+				};
+				factions[] = {};
+			};
 		};
 	};
 };
